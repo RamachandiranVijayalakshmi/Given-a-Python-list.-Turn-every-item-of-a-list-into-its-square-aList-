@@ -1,0 +1,1 @@
+# Given-a-Python-list.-Turn-every-item-of-a-list-into-its-square-aList-
